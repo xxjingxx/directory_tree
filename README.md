@@ -10,4 +10,4 @@ This little C program is an assignment of CS5008 Algorithm course. It will list 
 * You can now run ```dirtree``` from any directory
 
 # Example Output
-<img src="http://github.com/xxjingxx/directory_tree/blob/main/example_output1.png" width="400"/>
+<img src="https//github.com/xxjingxx/directory_tree/blob/main/example_output1.png" width="400"/>
